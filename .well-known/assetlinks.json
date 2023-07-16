@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.example.deeplink_cookbook",
+    "package_name": "com.example.airsync",
     "sha256_cert_fingerprints":
-    ["FF:2A:CF:7B:DD:CC:F1:03:3E:E8:B2:27:7C:A2:E3:3C:DE:13:DB:AC:8E:EB:3A:B9:72:A1:0E:26:8A:F5:EC:AF"]
+    ["60:B4:6E:95:C6:58:E5:16:67:96:12:D5:B3:93:EC:2F:39:EB:E0:4B:BA:3C:9E:E7:46:6B:56:CE:8E:C4:B7:6B"]
   }
 }]
